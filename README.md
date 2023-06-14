@@ -1,2 +1,2 @@
 # Sketch2PQ
-Sketch, Planar quadrilateral mesh generation, Freeform surface
+Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch
