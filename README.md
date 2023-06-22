@@ -1,4 +1,4 @@
-# Sketch2PQ [Video](https://rec.ustc.edu.cn/share/21b85b00-10a3-11ee-8ab0-1d920ced0508)
+## Sketch2PQ [Video](https://rec.ustc.edu.cn/share/21b85b00-10a3-11ee-8ab0-1d920ced0508)
 This repository is the implementation of our tvcg 2022 paper [Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch](https://arxiv.org/abs/2201.09367).<br>
 Authors: Zhi Deng, [Yang Liu](https://xueyuhanlang.github.io/), [Hao Pan](https://haopan.github.io/), [Wassim Jabi](https://profiles.cardiff.ac.uk/staff/jabiw), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/), [Bailin Deng](http://www.bdeng.me/).
 
