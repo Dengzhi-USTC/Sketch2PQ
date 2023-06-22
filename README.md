@@ -5,7 +5,7 @@ Authors: Zhi Deng, [Yang Liu](https://xueyuhanlang.github.io/), [Hao Pan](https:
 ## UI
 This ui system has been tested on Ubuntu 16.04, C++11,[Libtorch.1.1.0](https://pytorch.org/),[libigl](https://libigl.github.io/), [shappOp.0.1.0](https://www.shapeop.org/), gcc-5.5, [directional](https://github.com/avaxman/Directional), CUDA 10.1,opencv3.4,etc.
 ![](./image/gui_system.png)
-If you want to run our system, you will need to download the relevant libraries and pre-trained models. Once you have downloaded the files, simply extract them to the Sketch_PQ. You can follow the [installation](https://github.com/Dengzhi-USTC/Sketch2PQ/blob/main/src/installation.md)
+If you want to run our system, you will need to download the relevant libraries and pre-trained models. Once you have downloaded the files, simply extract them to the Sketch_PQ. You can follow the [installation.](https://github.com/Dengzhi-USTC/Sketch2PQ/blob/main/src/installation.md)
 
 ## [Datasets]()
 ![](./image/datasets.png)
