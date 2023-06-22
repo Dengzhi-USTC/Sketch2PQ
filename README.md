@@ -25,4 +25,4 @@ If you find our work helpful, please consider citing.
 }
 
 ### Notes
-If you have comments or questions, please contact Zhi Deng([zhideng@mail.ustc.edu.cn]()).
+If you have comments or questions, please contact Zhi Deng ([zhideng@mail.ustc.edu.cn]()).
