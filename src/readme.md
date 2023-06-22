@@ -5,7 +5,7 @@ Authors: Zhi Deng, [Yang Liu](https://xueyuhanlang.github.io/), [Hao Pan](https:
 ## UI
 This ui system has been tested on Ubuntu 16.04, Libtorch.1.1.0,libigl, shappeOp.0.1.0, gcc-5.5, directional, CUDA 10.1,opencv3.4,etc.
 ![](../image/gui_system.png)
-If you want to run our system, you will need to download the relevant libraries and pre-trained models. Once you have downloaded the files, simply extract them to the Sketch_PQ.
+If you want to run our system, you will need to download the relevant libraries and pre-trained models. Once you have downloaded the files, simply extract them to the Sketch_PQ. You can follow the [installtion]()
 
 ## Datasets
 ![](../image/datasets.png)
