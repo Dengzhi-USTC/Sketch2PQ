@@ -3,7 +3,7 @@ This repository is the implementation of our tvcg 2022 paper [Sketch2PQ: Freefor
 Authors: Zhi Deng, [Yang Liu](https://xueyuhanlang.github.io/), [Hao Pan](https://haopan.github.io/), [Wassim Jabi](https://profiles.cardiff.ac.uk/staff/jabiw), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/), [Bailin Deng](http://www.bdeng.me/).
 
 ## UI
-This ui system has been tested on Ubuntu 16.04, C++11, [Libtorch.1.1.0](https://pytorch.org/), [libigl](https://libigl.github.io/), [shappOp.0.1.0](https://www.shapeop.org/), gcc-5.5, [directional](https://github.com/avaxman/Directional), CUDA 10.1, opencv3.4, etc.
+This ui system has been tested on Ubuntu 16.04, C++11, [Libtorch.1.1.0](https://pytorch.org/), [libigl](https://libigl.github.io/), [shapeOp.0.1.0](https://www.shapeop.org/), gcc-5.5, [directional](https://github.com/avaxman/Directional), CUDA 10.1, opencv3.4, etc.
 ![](./image/gui_system.png)
 If you want to run our system, you will need to download the relevant libraries and pre-trained models. Once you have downloaded the files, simply extract them to the Sketch_PQ. You can follow the [installation.](https://github.com/Dengzhi-USTC/Sketch2PQ/blob/main/src/installation.md)
 
